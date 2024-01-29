@@ -245,4 +245,124 @@ The following options are supported:
     SayLanguage = Say.LanguageEnum.LvLv,
     LanguageNameInEnglish = "Latvian"
 },
+[32] = new LanguagePreference
+{
+    LanguagePreferenceOption = 32,
+    GatherLanguage = Gather.LanguageEnum.AfZa,
+    SayVoice = Say.VoiceEnum.GoogleAfZaStandardA,
+    SayLanguage = Say.LanguageEnum.AfZa,
+    LanguageNameInEnglish = "Afrikaans"
+},
+[33] = new LanguagePreference
+{
+    LanguagePreferenceOption = 33,
+    GatherLanguage = Gather.LanguageEnum.EuEs,
+    SayVoice = Say.VoiceEnum.GoogleEuEsStandardA,
+    SayLanguage = eues,
+    LanguageNameInEnglish = "Basque"
+},
+[34] = new LanguagePreference
+{
+    LanguagePreferenceOption = 34,
+    GatherLanguage = Gather.LanguageEnum.BgBg,
+    SayVoice = Say.VoiceEnum.GoogleBgBgStandardA,
+    SayLanguage = Say.LanguageEnum.BgBg,
+    LanguageNameInEnglish = "Bulgarian"
+},
+[35] = new LanguagePreference
+{
+    LanguagePreferenceOption = 35,
+    GatherLanguage = Gather.LanguageEnum.CaEs,
+    SayVoice = Say.VoiceEnum.PollyArletNeural,
+    SayLanguage = Say.LanguageEnum.CaEs,
+    LanguageNameInEnglish = "Catalan"
+},
+[36] = new LanguagePreference
+{
+    LanguagePreferenceOption = 36,
+    GatherLanguage = Gather.LanguageEnum.CsCz,
+    SayVoice = Say.VoiceEnum.GoogleCsCzWavenetA,
+    SayLanguage = Say.LanguageEnum.CsCz,
+    LanguageNameInEnglish = "Czech"
+},
+[37] = new LanguagePreference
+{
+    LanguagePreferenceOption = 37,
+    GatherLanguage = Gather.LanguageEnum.FiFi,
+    SayVoice = Say.VoiceEnum.PollySuviNeural,
+    SayLanguage = Say.LanguageEnum.FiFi,
+    LanguageNameInEnglish = "Finnish"
+},
+[38] = new LanguagePreference
+{
+    LanguagePreferenceOption = 38,
+    GatherLanguage = Gather.LanguageEnum.GlEs,
+    SayVoice = Say.VoiceEnum.GoogleGlEsStandardA,
+    SayLanguage = gles,
+    LanguageNameInEnglish = "Galician"
+},
+[39] = new LanguagePreference
+{
+    LanguagePreferenceOption = 39,
+    GatherLanguage = Gather.LanguageEnum.ElGr,
+    SayVoice = Say.VoiceEnum.GoogleElGrWavenetA,
+    SayLanguage = Say.LanguageEnum.ElGr,
+    LanguageNameInEnglish = "Greek"
+},
+[40] = new LanguagePreference
+{
+    LanguagePreferenceOption = 40,
+    GatherLanguage = Gather.LanguageEnum.HuHu,
+    SayVoice = Say.VoiceEnum.GoogleHuHuWavenetA,
+    SayLanguage = Say.LanguageEnum.HuHu,
+    LanguageNameInEnglish = "Hungarian"
+},
+[41] = new LanguagePreference
+{
+    LanguagePreferenceOption = 41,
+    GatherLanguage = Gather.LanguageEnum.IsIs,
+    SayVoice = Say.VoiceEnum.PollyKarl,
+    SayLanguage = Say.LanguageEnum.IsIs,
+    LanguageNameInEnglish = "Icelandic"
+},
+[42] = new LanguagePreference
+{
+    LanguagePreferenceOption = 42,
+    GatherLanguage = Gather.LanguageEnum.RoRo,
+    SayVoice = Say.VoiceEnum.GoogleRoRoWavenetA,
+    SayLanguage = Say.LanguageEnum.RoRo,
+    LanguageNameInEnglish = "Romanian"
+},
+[43] = new LanguagePreference
+{
+    LanguagePreferenceOption = 43,
+    GatherLanguage = Gather.LanguageEnum.SrRs,
+    SayVoice = Say.VoiceEnum.GoogleSrRsStandardA,
+    SayLanguage = Say.LanguageEnum.SrRs,
+    LanguageNameInEnglish = "Serbian"
+},
+[44] = new LanguagePreference
+{
+    LanguagePreferenceOption = 44,
+    GatherLanguage = Gather.LanguageEnum.SkSk,
+    SayVoice = Say.VoiceEnum.GoogleSkSkWavenetA,
+    SayLanguage = Say.LanguageEnum.SkSk,
+    LanguageNameInEnglish = "Slovak"
+},
+[45] = new LanguagePreference
+{
+    LanguagePreferenceOption = 45,
+    GatherLanguage = Gather.LanguageEnum.ThTh,
+    SayVoice = Say.VoiceEnum.GoogleThThStandardA,
+    SayLanguage = Say.LanguageEnum.ThTh,
+    LanguageNameInEnglish = "Thai"
+},
+[46] = new LanguagePreference
+{
+    LanguagePreferenceOption = 46,
+    GatherLanguage = Gather.LanguageEnum.UkUa,
+    SayVoice = Say.VoiceEnum.GoogleUkUaWavenetA,
+    SayLanguage = Say.LanguageEnum.UkUa,
+    LanguageNameInEnglish = "Ukrainian"
+},
 ```

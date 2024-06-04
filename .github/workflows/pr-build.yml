@@ -19,3 +19,6 @@ jobs:
 
       - name: Build
         run: dotnet build --configuration Release
+
+      - name: Test
+        run: dotnet test 'BibleTalkAI.LanguageOptions.Tests' --configuration Release --no-restore --no-build
